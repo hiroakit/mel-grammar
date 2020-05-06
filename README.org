@@ -1,0 +1,31 @@
+#+options: \n:t
+
+* Overview
+
+Adds syntax highlighting to [[https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-60178D44-9990-45B4-8B43-9429D54DF70E][MEL]] files in GitHub.
+
+* Motivation
+
+MEL is a scripting language provided by [[https://www.autodesk.com/products/maya/overview][Autodesk Maya]].
+However, GitHub doesn't support syntax highlighting in MEL files.
+Thus, we develop to get better visibility.
+
+* Objective
+
+The current objective is referenced by [[https://github.com/github/linguist][GitHub linguist]].
+
+* Supporting
+
+- Maya 2020
+
+* Contributing
+
+Pull Request are always welcome.
+
+Shall we enjoy social coding!
+
+* License
+
+Copyright © Hiroaki ENDOH. All rights reserved.
+
+Licensed under the [[file:./LICENSE][MIT license]].
