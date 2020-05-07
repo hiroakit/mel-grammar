@@ -1,6 +1,6 @@
 #+options: \n:t
 
-* Overview
+* mel grammar
 
 Adds syntax highlighting to [[https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-60178D44-9990-45B4-8B43-9429D54DF70E][MEL]] files in GitHub.
 
